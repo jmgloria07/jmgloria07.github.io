@@ -72,9 +72,10 @@ education:
 #List of interesting Github repo/projects to include - optional
 github:
  - jmgloria07/jmgloria07.github.io
+ - jmgloria07/gracenote
+ - jmgloria07/gracenote-angular
  - jmgloria07/toktive
  - jmgloria07/toktive-web
- - jmgloria07/gracenote
 
 intro: |
  Software Developer with 6 years experience specializing in Web Development. Supported and developed projects on both front and back-end, as well as exposed to Agile and Continuous Integration/Continuous Development (CI/CD). Looking for an organization that can cultivate and utilize the said skills.<br/><br/>
