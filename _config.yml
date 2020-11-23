@@ -22,6 +22,7 @@ skills:
  - JSP/Servlets
  - HTML/CSS
  - JavaScript/jQuery
+ - Angular
  - BASH Scripting
  - SQL
  - SOAP & REST
@@ -37,15 +38,21 @@ skills:
  - Agile
  - Waterfall
  - Apache Tomcat
+ - Azure Cloud
  - IBM WebSphere
  - IBM Red Hat OpenShift
  - CI/CD
 
 #Work experience is required
 roles:
+ - title: Developer
+   start: 2020
+   end: Present
+   employer: Magenic Manila Incorporated
+   description: Magenic drives Fortune 1000 clients by developing applications using leading technologies. Every day offers me a new opportunity to make my mark in this evolving market, while growing my development acumen and personal brand. I participate in emerging tech thought leadership, knowledge sharing, and have the opportunity to collaborate with Magenic's nationally known technical leaders.
  - title: Systems Engineer
    start: 2018
-   end: Present
+   end: 2020
    employer: Tata Consultancy Services
    description: TCS is a multi-national IT services company based in India, that caters process offshoring, consultancy as well as business solutions. Working as one of their engineers, I became part of different teams that maintain and develop different portfolios of web applications, as well as start a project from ground up, all with close coordination with their respective clients.
  - title: Application Management Engineer
@@ -78,7 +85,7 @@ github:
  - jmgloria07/toktive-web
 
 intro: |
- Software Developer with 6 years experience specializing in Web Development. Supported and developed projects on both front and back-end, as well as exposed to Agile and Continuous Integration/Continuous Development (CI/CD). Looking for an organization that can cultivate and utilize the said skills.<br/><br/>
+ Software Developer with 6.5 years experience specializing in Web Development. Supported and developed projects on both front and back-end, as well as exposed to Agile and Continuous Integration/Continuous Development (CI/CD). Looking for an organization that can cultivate and utilize the said skills.<br/><br/>
  I find building applications interesting. I usually wind up looking into applications I'm using and envision how it could implemented in code applying my six years of expertise in application development.<br/><br/>
  I thrive the best at environments with productive and busy atmosphere, allowing me to get into "the zone." I also practice at the utmost both community and enterprise defined coding standards, as I believe that good codes are concise, readable, and contextual.<br/><br/>
  During spare time, I enjoy books, movies, plastic models, and games at the comfort of home. While indoors are my go-to past-time, I also enjoy mountain climbing, diving, and out-of-town experiences outdoors.
