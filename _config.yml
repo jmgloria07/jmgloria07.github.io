@@ -43,6 +43,8 @@ skills:
  - IBM Red Hat OpenShift
  - CI/CD
 
+blogfeed: https://www.pudding.coffee/posts/index.xml
+
 #Work experience is required
 roles:
  - title: Developer
