@@ -7,15 +7,15 @@
 	(function() {
 
 		$.get("{{site.blogfeed}}", function (data) {
-			console.log("here..");
-			console.log(data);
-			$.each(data.feed.entry.slice(0,10), function (i, el) {
-				var link = el.link.filter(function(o) { return o.rel == 'alternate' }).pop().href;
-				var title = el.title.$t
-					$('#blogArticles').append("<a target='_blank' href='" + link + "'>" + title + "</a><br><br>")
+			var $items = $(data).find("item");
+			$.each($items.slice(0,10), function (i, el) {
+				var $el = $(el);
+				var link = $el.find("link").text();
+				var title = $el.find("title").text();
+				$('#blogArticles').append("<a target='_blank' href='" + link + "'>" + title + "</a><br><br>");
 			});
 		},
-     		"jsonp");
+     		"xml");
 	})();
 	</script>
 {% endif %}
